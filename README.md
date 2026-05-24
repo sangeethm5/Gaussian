@@ -14,12 +14,13 @@ To write a program to find the solution of a matrix using Gaussian Elimination.
 4. 
 
 ## Program:
-
+```
 /*
 Program to find the solution of a matrix using Gaussian Elimination.
 Developed by:Sangeeth M 
 RegisterNumber: 212225100043
 */
+```
 ```
 import os
 os.environ["OPENBLAS_NUM_THREADS"]="1"
